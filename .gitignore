@@ -3,3 +3,6 @@ linux/
 android/第一行代码_userVersion/
 android/Android应用开发揭秘-书籍所需源码/
 android/booksource-master-newer_Source/
+.DS_Store
+C++/.DS_Store
+*/.DS_Store
